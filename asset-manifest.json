@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/portfolio-kim/static/css/main.f3d0aabe.chunk.css",
+    "main.js": "/portfolio-kim/static/js/main.e7952df8.chunk.js",
+    "main.js.map": "/portfolio-kim/static/js/main.e7952df8.chunk.js.map",
+    "runtime-main.js": "/portfolio-kim/static/js/runtime-main.5e6319f7.js",
+    "runtime-main.js.map": "/portfolio-kim/static/js/runtime-main.5e6319f7.js.map",
+    "static/js/2.d8dc915d.chunk.js": "/portfolio-kim/static/js/2.d8dc915d.chunk.js",
+    "static/js/2.d8dc915d.chunk.js.map": "/portfolio-kim/static/js/2.d8dc915d.chunk.js.map",
+    "index.html": "/portfolio-kim/index.html",
+    "static/css/main.f3d0aabe.chunk.css.map": "/portfolio-kim/static/css/main.f3d0aabe.chunk.css.map",
+    "static/js/2.d8dc915d.chunk.js.LICENSE.txt": "/portfolio-kim/static/js/2.d8dc915d.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/portfolio-kim/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5e6319f7.js",
+    "static/js/2.d8dc915d.chunk.js",
+    "static/css/main.f3d0aabe.chunk.css",
+    "static/js/main.e7952df8.chunk.js"
+  ]
+}
