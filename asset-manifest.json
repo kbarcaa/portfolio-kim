@@ -1,21 +1,27 @@
 {
   "files": {
-    "main.css": "/portfolio-kim/static/css/main.d6c8863b.chunk.css",
-    "main.js": "/portfolio-kim/static/js/main.01fb69ce.chunk.js",
-    "main.js.map": "/portfolio-kim/static/js/main.01fb69ce.chunk.js.map",
+    "main.css": "/portfolio-kim/static/css/main.8245f822.chunk.css",
+    "main.js": "/portfolio-kim/static/js/main.f8715bfa.chunk.js",
+    "main.js.map": "/portfolio-kim/static/js/main.f8715bfa.chunk.js.map",
     "runtime-main.js": "/portfolio-kim/static/js/runtime-main.5e6319f7.js",
     "runtime-main.js.map": "/portfolio-kim/static/js/runtime-main.5e6319f7.js.map",
-    "static/js/2.9ed6b012.chunk.js": "/portfolio-kim/static/js/2.9ed6b012.chunk.js",
-    "static/js/2.9ed6b012.chunk.js.map": "/portfolio-kim/static/js/2.9ed6b012.chunk.js.map",
+    "static/js/2.a6852eac.chunk.js": "/portfolio-kim/static/js/2.a6852eac.chunk.js",
+    "static/js/2.a6852eac.chunk.js.map": "/portfolio-kim/static/js/2.a6852eac.chunk.js.map",
     "index.html": "/portfolio-kim/index.html",
-    "static/css/main.d6c8863b.chunk.css.map": "/portfolio-kim/static/css/main.d6c8863b.chunk.css.map",
-    "static/js/2.9ed6b012.chunk.js.LICENSE.txt": "/portfolio-kim/static/js/2.9ed6b012.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/portfolio-kim/static/media/logo.6ce24c58.svg"
+    "static/css/main.8245f822.chunk.css.map": "/portfolio-kim/static/css/main.8245f822.chunk.css.map",
+    "static/js/2.a6852eac.chunk.js.LICENSE.txt": "/portfolio-kim/static/js/2.a6852eac.chunk.js.LICENSE.txt",
+    "static/media/gmu.68765b2f.png": "/portfolio-kim/static/media/gmu.68765b2f.png",
+    "static/media/gw.d39085cb.png": "/portfolio-kim/static/media/gw.d39085cb.png",
+    "static/media/hhmi.32d894fc.png": "/portfolio-kim/static/media/hhmi.32d894fc.png",
+    "static/media/kotra.3dee8930.png": "/portfolio-kim/static/media/kotra.3dee8930.png",
+    "static/media/logo.5250c2dd.png": "/portfolio-kim/static/media/logo.5250c2dd.png",
+    "static/media/logo.6ce24c58.svg": "/portfolio-kim/static/media/logo.6ce24c58.svg",
+    "static/media/solomon.7b8518e8.png": "/portfolio-kim/static/media/solomon.7b8518e8.png"
   },
   "entrypoints": [
     "static/js/runtime-main.5e6319f7.js",
-    "static/js/2.9ed6b012.chunk.js",
-    "static/css/main.d6c8863b.chunk.css",
-    "static/js/main.01fb69ce.chunk.js"
+    "static/js/2.a6852eac.chunk.js",
+    "static/css/main.8245f822.chunk.css",
+    "static/js/main.f8715bfa.chunk.js"
   ]
 }
