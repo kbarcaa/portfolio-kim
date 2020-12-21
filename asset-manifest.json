@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/portfolio-kim/static/css/main.9fc4c428.chunk.css",
-    "main.js": "/portfolio-kim/static/js/main.2b88f0ff.chunk.js",
-    "main.js.map": "/portfolio-kim/static/js/main.2b88f0ff.chunk.js.map",
+    "main.css": "/portfolio-kim/static/css/main.688f7e2d.chunk.css",
+    "main.js": "/portfolio-kim/static/js/main.0cae671a.chunk.js",
+    "main.js.map": "/portfolio-kim/static/js/main.0cae671a.chunk.js.map",
     "runtime-main.js": "/portfolio-kim/static/js/runtime-main.5e6319f7.js",
     "runtime-main.js.map": "/portfolio-kim/static/js/runtime-main.5e6319f7.js.map",
     "static/js/2.29fb0484.chunk.js": "/portfolio-kim/static/js/2.29fb0484.chunk.js",
     "static/js/2.29fb0484.chunk.js.map": "/portfolio-kim/static/js/2.29fb0484.chunk.js.map",
     "index.html": "/portfolio-kim/index.html",
-    "static/css/main.9fc4c428.chunk.css.map": "/portfolio-kim/static/css/main.9fc4c428.chunk.css.map",
+    "static/css/main.688f7e2d.chunk.css.map": "/portfolio-kim/static/css/main.688f7e2d.chunk.css.map",
     "static/js/2.29fb0484.chunk.js.LICENSE.txt": "/portfolio-kim/static/js/2.29fb0484.chunk.js.LICENSE.txt",
     "static/media/gmu.68765b2f.png": "/portfolio-kim/static/media/gmu.68765b2f.png",
     "static/media/gw.d39085cb.png": "/portfolio-kim/static/media/gw.d39085cb.png",
@@ -35,7 +35,7 @@
   "entrypoints": [
     "static/js/runtime-main.5e6319f7.js",
     "static/js/2.29fb0484.chunk.js",
-    "static/css/main.9fc4c428.chunk.css",
-    "static/js/main.2b88f0ff.chunk.js"
+    "static/css/main.688f7e2d.chunk.css",
+    "static/js/main.0cae671a.chunk.js"
   ]
 }
