@@ -31,8 +31,8 @@
     "title": "Covid Checker",
     "description": "React based application to check worldwide, real-time COVID-19 data.",
     "utilized": "React.js, JSX, Material-UI, React-ChartJs-2, Chart.js, Leaftlet, Numeral, Firebase",
-    "url": "https://covid-tracker-4fa84.web.app/",
-    "github": "",
+    "url": "https://covid-tracker-4fa84.web.app",
+    "github": "https://github.com/sungjinkimm/covid-tracker",
     "date": "August, 2020"
   },
   "project__5": {
@@ -50,7 +50,7 @@
     "description": "Clone App of Netflix with dynamic banner, up-to-date lists of popular shows.",
     "utilized": "React, JSX, Netflix API, React Context API, GitHub, Firebase",
     "url": "https://netflix-clone-2d7bd.web.app",
-    "github": "",
+    "github": "https://github.com/sungjinkimm/netflix-clone",
     "date": "December, 2020"
   },
   "project__7": {
