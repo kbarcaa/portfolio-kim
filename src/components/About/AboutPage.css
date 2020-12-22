@@ -1,0 +1,59 @@
+.aboutPage {
+  height: 100vh;
+  height: 100%;
+  position: relative;
+}
+.aboutPage .jumbotron {
+  min-height: 65vh;
+  background-color: rgb(215, 230, 238);
+}
+.aboutPage__Tabs a {
+  border-top: 1px solid white !important;
+  border-left: 1px solid white !important;
+  border-right: 1px solid white !important;
+}
+.aboutPage__heading {
+  text-align: center;
+}
+.aboutPage__heading h2 {
+  margin-bottom: 1.5rem;
+}
+.aboutPage .jumbotron {
+  border-radius: 17px;
+}
+.overview {
+  margin: 2rem 0;
+  border-bottom: 1px dotted black;
+}
+.overview h4 {
+  margin-bottom: 1rem;
+}
+.timeline {
+  margin: 4rem;
+}
+.timeline h4 {
+  margin-bottom: 1rem;
+}
+.timeline__name {
+  margin: 4rem 2rem 0 0;
+  text-align: center;
+}
+.timeline__content {
+  margin: 2rem;
+}
+
+.timeline__extra {
+  margin-top: 4rem;
+  border-top: 1px dotted black;
+}
+
+.body__hr {
+  background-color: white;
+  border-top: 1px dotted gray;
+}
+
+.timeline__img .img-fluid {
+  margin-left: -2rem;
+  margin-top: 1rem;
+  border-radius: 17px;
+}

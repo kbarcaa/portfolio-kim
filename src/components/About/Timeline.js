@@ -1,0 +1,124 @@
+import React from 'react';
+
+export default function Timeline(props) {
+  return (
+    <div className="container">
+      <div className="timeline__name">
+        <u>
+          {' '}
+          <h2>{props.name}</h2>
+        </u>
+      </div>
+      <div className="timeline__content">
+        <div className="row">
+          <div className="timeline__img col-3 mt-3">
+            <img className="img-fluid" src={props.img} alt="" />
+          </div>
+          <div className="col-9">
+            <p className="mt-2">
+              <span className="category"> Role: </span>
+              {props.role}
+            </p>
+
+            <p>
+              <span className="category">Type: </span>
+              {props.type}
+            </p>
+
+            <p>
+              <span className="category">Description: </span>
+              {props.description}
+            </p>
+
+            <div className="row">
+              <div className="col-6">
+                <p>
+                  {props.location} | {props.date}
+                </p>
+              </div>
+              <div className="col-6">
+                <p>
+                  Link:{' '}
+                  <a href={props.url} target="_blank" rel="noreferrer">
+                    www.{props.name}.com/
+                  </a>
+                </p>
+                {props.publication && (
+                  <>
+                    {' '}
+                    <p>
+                      Publication:{' '}
+                      <a href={props.url} target="_blank" rel="noreferrer">
+                        {props.publication}
+                      </a>
+                    </p>
+                  </>
+                )}
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      {props.name2 && (
+        <div className="timeline__extra">
+          <div className="timeline__name">
+            <h2>
+              <u>{props.name2}</u>
+            </h2>
+          </div>
+          <div className="timeline__content">
+            <div className="row">
+              <div className="timeline__img col-3 mt-3">
+                <img className="img-fluid" src={props.img2} alt="" />
+              </div>
+              <div className="col-9">
+                <p className="mt-2">
+                  <span className="category"> Role: </span>
+                  {props.role2}
+                </p>
+
+                <p>
+                  <span className="category">Type: </span>
+                  {props.type2}
+                </p>
+
+                <p>
+                  <span className="category">Description: </span>
+                  {props.description2}
+                </p>
+
+                <div className="row">
+                  <div className="col-6">
+                    <p>
+                      {props.location2} | {props.date2}
+                    </p>
+                  </div>
+                  <div className="col-6">
+                    <p>
+                      Link:{' '}
+                      <a href={props.url2} target="_blank" rel="noreferrer">
+                        www.{props.name2}.com/
+                      </a>
+                    </p>
+                    {props.publication && (
+                      <>
+                        {' '}
+                        <p>
+                          Publication:{' '}
+                          <a href={props.url} target="_blank" rel="noreferrer">
+                            {props.publication}
+                          </a>
+                        </p>
+                      </>
+                    )}
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      )}
+    </div>
+  );
+}

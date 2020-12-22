@@ -1,0 +1,73 @@
+{
+  "timeline_1": {
+    "id": 1,
+    "name": "Kumon",
+    "role": "Teaching Assistant",
+    "type": "Part Time Job",
+    "description": "Supervise students durin non-classroom time and review materials taught in class time. Worked closely with the lead teacher to identify issues students are having and develop appropriate solution. Document student's work and progress for further evaluation and feedback.",
+    "location": "Centreville, Va",
+    "url": "https://sungjinkimm.github.io/weather-checker",
+    "date": "2008-2010"
+  },
+  "timeline_2": {
+    "id": 2,
+    "name": "GMU",
+    "role": "Student",
+    "type": "Neuroscience B.S.",
+    "description": "With passion for research and technology, I majored in Neuroscience to learn and explore the brilliance of human brain and the use modern technology. I have gained experience using of various tools and technology and research.",
+    "location": "Fairfax, Va",
+    "url": "www.gmu.edu",
+    "date": "2010-2016"
+  },
+  "timeline_3": {
+    "id": 3,
+    "name": "Solomon Academy",
+    "role": "Instructor",
+    "type": "Part-Time Job",
+    "description": "Designed and planned academic curriculum for elementary to middle school grade level students. Document student's work and progress for further evaluation and feedback.",
+    "location": "Centreville, Va",
+    "url": "www.solomonacademy.edu",
+    "date": "2013-2016"
+  },
+  "timeline_4": {
+    "id": 4,
+    "name": "KOTRA",
+    "role": "Translator",
+    "type": "Freelance",
+    "description": "Worked as ambassador for researchers from various universities from South Korea. Translated and interpreted research interviews, findings, business models, and presentations.",
+    "location": "Vienna, Va",
+    "url": "https://www.kotra.or.kr/foreign/main/KHEMUI010M.html?LOCALE=en",
+    "date": "2016"
+  },
+  "timeline_5": {
+    "id": 5,
+    "name": "Mtech",
+    "role": "PC Engineer",
+    "type": "Freelance",
+    "description": "Consult, research, build, and deliver the best possible PC builds, upgrades, and repairs. Specialied in ITX builds, gaming PCs & laptops, and gaming consoles.",
+    "location": "Northern Virignia",
+    "url": "https://www.kotra.or.kr/foreign/main/KHEMUI010M.html?LOCALE=en",
+    "date": "2016 - current"
+  },
+  "timeline_6": {
+    "id": 6,
+    "name": "HHMI",
+    "role": "Research Technician",
+    "type": "Full-Time Job",
+    "description": "Utilized large data sets of electron microscopy (EM) data from brains and nervous systems. Identified, annotated, and analyzed neurons in large digitalized volumes. Performed detailed, repetitive tasks producing results at defined deadlines. Worked closely with software engineers to improve and fix the software and applications used. Was able to adapt well into different workflows and project teams.",
+    "location": "Ashburn, Va",
+    "url": "www.hhmi.org",
+    "date": "2017-2020",
+    "publication": "https://elifesciences.org/articles/57443"
+  },
+  "timeline_7": {
+    "id": 7,
+    "name": "George Washington University",
+    "role": "Student",
+    "type": "Full Stack Web Devlopment Certification",
+    "description": "A 24-week intensive boot camp program focused on gaining technical programming and market-driven skills in HTML, CSS, Bootstrap, JavaScript, jQuery, Node.js, Express.js, React.js, MongoDB, MySQL.",
+    "location": "Arlignton, Va",
+    "url": "https://bootcamp.cps.gwu.edu/coding/",
+    "date": "2020"
+  }
+}

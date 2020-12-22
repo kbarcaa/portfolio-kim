@@ -1,0 +1,72 @@
+.projectPage {
+  margin-top: 15rem;
+  height: 100vh;
+  position: relative;
+}
+.projectPage__heading {
+  text-align: center;
+}
+.projectPage__heading h2 {
+  margin-bottom: 1.5rem;
+}
+.projectPage__icons {
+  margin: 4rem 0;
+  justify-content: space-evenly;
+}
+.projectIcon__row {
+  justify-content: space-evenly;
+  display: column;
+}
+.projectPage__projects {
+  margin-top: 6rem;
+}
+.projectPage__projects .row {
+  margin-bottom: 2rem;
+}
+.project__btn {
+  cursor: pointer;
+  padding-bottom: 20px;
+  margin: auto;
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  object-fit: contain;
+  max-width: 350px;
+  height: 350px;
+  border: 1px solid gray;
+  outline: none !important;
+  border-radius: 17px;
+  background-color: rgb(215, 230, 238);
+}
+.project__img {
+  margin: -20px 0 -20px 0;
+  padding: 40px;
+  object-fit: contain;
+  width: 400px;
+}
+.project__modalBody {
+  justify-content: center;
+}
+.project__modalImg {
+  object-fit: contain;
+  max-height: 400px;
+  border-radius: 17px;
+  margin-bottom: 10px;
+}
+.project__icon {
+  margin-right: 1rem;
+}
+.project__p {
+  color: rgba(61, 141, 221);
+  max-width: 90%;
+}
+.project__button {
+  color: white;
+  border: rgba(24, 88, 151, 0.8);
+  margin-right: 10px;
+  background: rgba(61, 141, 221, 0.8);
+}
+/* for dual img layout */
+.extra__img {
+  border-top: 2px dotted black;
+}

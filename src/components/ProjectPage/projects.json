@@ -1,0 +1,65 @@
+{
+  "project__1": {
+    "id": 1,
+    "title": "To-Do List",
+    "description": "Simple Todo list to keep track of daily tasks",
+    "utilized": "HTML, CSS, Bootstrap, JavaScript, jQuery, Weather - API, AJAX, Localhost,Git-Hub",
+    "url": "https://sungjinkimm.github.io/todo-list",
+    "github": "https://github.com/sungjinkimm/todo-list",
+    "date": "May, 2020"
+  },
+  "project__2": {
+    "id": 2,
+    "title": "Weather Checker",
+    "description": "Current & Five-day Weather Checker for cities and states in USA",
+    "utilized": "HTML, CSS, Bootstrap, JavaScript, jQuery, Weather - API, AJAX, Localhost, Git-Hub",
+    "url": "https://sungjinkimm.github.io/weather-checker",
+    "github": "https://github.com/sungjinkimm/weather-checker",
+    "date": "June, 2020"
+  },
+  "project__3": {
+    "id": 3,
+    "title": "Snippet Saver",
+    "description": "Digital library for storing useful code snippets.",
+    "utilized": "HTML, CSS, Bootstrap, JavaScript, MySQL DB, NPM Packages [Express, Express-Handlebars, MySQL], & Heroku",
+    "url": "https://sjk-snippetsaver.herokuapp.com",
+    "github": "https://github.com/sungjinkimm/snippetSaver",
+    "date": "July, 2020"
+  },
+  "project__4": {
+    "id": 4,
+    "title": "Covid Checker",
+    "description": "React based application to check worldwide, real-time COVID-19 data.",
+    "utilized": "React.js, JSX, Material-UI, React-ChartJs-2, Chart.js, Leaftlet, Numeral, Firebase",
+    "url": "https://covid-tracker-4fa84.web.app/",
+    "github": "",
+    "date": "August, 2020"
+  },
+  "project__5": {
+    "id": 5,
+    "title": "Spotify-Clone",
+    "description": "Clone App of Spotify with actual spotify account user authentication, playlists, liked music, etc",
+    "utilized": "React, JSX, Spotify API, Material UI, React Context API, GitHub, Firebase",
+    "url": "",
+    "github": "",
+    "date": "December, 2020"
+  },
+  "project__6": {
+    "id": 6,
+    "title": "Netflix-Clone",
+    "description": "Clone App of Netflix with dynamic banner, up-to-date lists of popular shows.",
+    "utilized": "React, JSX, Netflix API, React Context API, GitHub, Firebase",
+    "url": "https://netflix-clone-2d7bd.web.app",
+    "github": "",
+    "date": "December, 2020"
+  },
+  "project__7": {
+    "id": 7,
+    "title": "Modelier",
+    "description": "Digital library for storing useful code snippets.",
+    "utilized": "HTML, CSS, Bootstrap, JavaScript, Mongo DB, NPM Packages [Express, EJS, Mongoose, Passport, Flash], User Authentication, Google Maps API, & Heroku",
+    "url": "https://modelier.herokuapp.com",
+    "github": "https://github.com/sungjinkimm/modelier",
+    "date": "September, 2020"
+  }
+}
