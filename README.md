@@ -1,7 +1,7 @@
 # Personal Portfolio
 
-[Project link](https://sungjinkimm.github.io/portfolio-kim/)
-(https://sungjinkimm.github.io/portfolio-kim/)
+[Project link](https://kbarcaa.github.io/portfolio-kim/)
+(https://kbarcaa.github.io/portfolio-kim/)
 
 
 # Getting Started with Create React App
