@@ -4,8 +4,8 @@
     "title": "To-Do List",
     "description": "Simple Todo list to keep track of daily tasks",
     "utilized": "HTML, CSS, Bootstrap, JavaScript, jQuery, Weather - API, AJAX, Localhost,Git-Hub",
-    "url": "https://sungjinkimm.github.io/todo-list",
-    "github": "https://github.com/sungjinkimm/todo-list",
+    "url": "https://masonkimm.github.io/todo-list",
+    "github": "https://github.com/masonkimm/todo-list",
     "date": "May, 2020"
   },
   "project__2": {
@@ -13,8 +13,8 @@
     "title": "Weather Checker",
     "description": "Current & Five-day Weather Checker for cities and states in USA",
     "utilized": "HTML, CSS, Bootstrap, JavaScript, jQuery, Weather - API, AJAX, Localhost, Git-Hub",
-    "url": "https://sungjinkimm.github.io/weather-checker",
-    "github": "https://github.com/sungjinkimm/weather-checker",
+    "url": "https://masonkimm.github.io/weather-checker",
+    "github": "https://github.com/masonkimm/weather-checker",
     "date": "June, 2020"
   },
   "project__3": {
@@ -23,7 +23,7 @@
     "description": "Digital library for storing useful code snippets.",
     "utilized": "HTML, CSS, Bootstrap, JavaScript, MySQL DB, NPM Packages [Express, Express-Handlebars, MySQL], & Heroku",
     "url": "https://sjk-snippetsaver.herokuapp.com",
-    "github": "https://github.com/sungjinkimm/snippetSaver",
+    "github": "https://github.com/masonkimm/snippet-saver",
     "date": "July, 2020"
   },
   "project__4": {
@@ -32,7 +32,7 @@
     "description": "React based application to check worldwide, real-time COVID-19 data.",
     "utilized": "React.js, JSX, Material-UI, React-ChartJs-2, Chart.js, Leaftlet, Numeral, Firebase",
     "url": "https://covid-tracker-4fa84.web.app",
-    "github": "https://github.com/sungjinkimm/covid-tracker",
+    "github": "https://github.com/masonkimm/covid-tracker",
     "date": "August, 2020"
   },
   "project__5": {
@@ -50,7 +50,7 @@
     "description": "Clone App of Netflix with dynamic banner, up-to-date lists of popular shows.",
     "utilized": "React, JSX, Netflix API, React Context API, GitHub, Firebase",
     "url": "https://netflix-clone-2d7bd.web.app",
-    "github": "https://github.com/sungjinkimm/netflix-clone",
+    "github": "https://github.com/masonkimm/netflix-clone",
     "date": "December, 2020"
   },
   "project__7": {
@@ -59,7 +59,7 @@
     "description": "Digital library for storing useful code snippets.",
     "utilized": "HTML, CSS, Bootstrap, JavaScript, Mongo DB, NPM Packages [Express, EJS, Mongoose, Passport, Flash], User Authentication, Google Maps API, & Heroku",
     "url": "https://modelier.herokuapp.com",
-    "github": "https://github.com/sungjinkimm/modelier",
+    "github": "https://github.com/masonkimm/modelier",
     "date": "September, 2020"
   }
 }

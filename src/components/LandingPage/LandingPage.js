@@ -23,23 +23,23 @@ export default function LandingPage() {
             <OverlayTrigger overlay={<Tooltip>sungjinkimm@gmail.com</Tooltip>}>
               <i className="far fa-envelope" />
             </OverlayTrigger>
-            <OverlayTrigger overlay={<Tooltip>github.com/sungjinkimm</Tooltip>}>
+            <OverlayTrigger overlay={<Tooltip>github.com/masonkimm</Tooltip>}>
               <a
                 className="d-inline-block"
                 target="_blank"
-                href="https://github.com/sungjinkimm"
+                href="https://github.com/masonkimm"
                 rel="noreferrer"
               >
                 <i className="fab fa-github" />
               </a>
             </OverlayTrigger>
             <OverlayTrigger
-              overlay={<Tooltip>linkedin.com/in/sungjinkimm</Tooltip>}
+              overlay={<Tooltip>linkedin.com/in/masonkimm</Tooltip>}
             >
               <a
                 className="d-inline-block"
                 target="_blank"
-                href="https://www.linkedin.com/in/sungjinkimm"
+                href="https://www.linkedin.com/in/masonkimm"
                 rel="noreferrer"
               >
                 <i className="fab fa-linkedin" />
