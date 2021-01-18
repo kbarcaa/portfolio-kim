@@ -35,8 +35,9 @@ THE SOFTWARE IS PROVIDED "AS IS",  WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPL
 
 
 ## GitHub:
-[https://github.com/masonkimm](https://github.com/masonkimm)
-[https://github.com/masonkimm/portfolio-kim](https://github.com/masonkimm/portfolio-kim)
+* GitHub link: (https://github.com/masonkimm)
+
+* Github Project Page link: link (https://github.com/masonkimm/portfolio-kim)
 
 ## Code Utilization: 
 ![portfolio-kim](https://img.shields.io/github/languages/top/masonkimm/portfolio-kim)
