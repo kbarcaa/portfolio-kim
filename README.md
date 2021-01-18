@@ -40,7 +40,8 @@ THE SOFTWARE IS PROVIDED "AS IS",  WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPL
 * Github project page link: (https://github.com/masonkimm/portfolio-kim)
 
 ## Code Utilization: 
-![portfolio-kim](https://img.shields.io/github/languages/top/masonkimm/portfolio-kim)
+* Language Count: ![portfolio-kim](https://img.shields.io/github/languages/count/masonkimm/portfolio-kim)
+* Top language: ![portfolio-kim](https://img.shields.io/github/languages/top/masonkimm/portfolio-kim)
 
 
 ## Getting Started with Create React App
