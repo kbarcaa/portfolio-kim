@@ -1,6 +1,6 @@
 # Personal Portfolio
 
-* Project link (https://kbarcaa.github.io/portfolio-kim)
+Project link (https://kbarcaa.github.io/portfolio-kim)
 
 ## Description
 
