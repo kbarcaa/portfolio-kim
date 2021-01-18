@@ -25,8 +25,8 @@ Utilized:
 * Github project page link: (https://github.com/masonkimm/portfolio-kim)
 
 ## Code Utilization: 
-* Language Count: ![portfolio-kim](https://img.shields.io/github/languages/count/masonkimm/portfolio-kim)
-* Top language: ![portfolio-kim](https://img.shields.io/github/languages/top/masonkimm/portfolio-kim)
+* Language Count: ![](https://img.shields.io/github/languages/count/masonkimm/portfolio-kim)
+* Top language: ![](https://img.shields.io/github/languages/top/masonkimm/portfolio-kim)
 
 
 ## Getting Started with Create React App
