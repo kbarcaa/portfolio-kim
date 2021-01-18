@@ -1,6 +1,6 @@
 # Personal Portfolio
 
-Project link (https://kbarcaa.github.io/portfolio-kim)
+Project link (https://masonkimm.github.io/portfolio-kim)
 
 ## Description
 
@@ -35,9 +35,11 @@ THE SOFTWARE IS PROVIDED "AS IS",  WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPL
 
 
 ## GitHub:
-[https://github.com/kbarcaa](https://github.com/kbarcaa)
+[https://github.com/masonkimm](https://github.com/masonkimm)
+[https://github.com/masonkimm/portfolio-kim](https://github.com/masonkimm/portfolio-kim)
+
 ## Code Utilization: 
-![portfolio-kim](https://img.shields.io/github/languages/top/kbarcaa/portfolio-kim)
+![portfolio-kim](https://img.shields.io/github/languages/top/masonkimm/portfolio-kim)
 
 
 ## Getting Started with Create React App
