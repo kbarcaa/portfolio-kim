@@ -16,8 +16,8 @@ Utilized:
 * [Description](#Description)
 * [Credits](#Credits)
 * [License](#License)
-* [Git Hub](#Git Hub)
-* [Available Scripts](#Available Scripts)
+* [Git Hub](#GitHub)
+* [Available Scripts](#AvailableScripts)
 
 ## Credits: 
 
