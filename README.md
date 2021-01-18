@@ -14,10 +14,10 @@ Utilized:
 ## Table of Contents:
 
 * [Description](#Description)
-* [Credits](#Credits)
-* [License](#License)
 * [Git Hub](#GitHub)
 * [Available Scripts](#Available_Scripts)
+* [Credits](#Credits)
+* [License](#License)
 
 ## Credits: 
 
