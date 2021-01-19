@@ -4,10 +4,10 @@ export default function Timeline(props) {
   return (
     <div className="container">
       <div className="timeline__name">
-        <u>
+        <h2>
           {' '}
-          <h2>{props.name}</h2>
-        </u>
+          <u> {props.name}</u>
+        </h2>
       </div>
       <div className="timeline__content">
         <div className="row">
@@ -46,7 +46,7 @@ export default function Timeline(props) {
                 {props.publication && (
                   <>
                     {' '}
-                    <p>
+                    <p className="timeline__publication">
                       Publication:{' '}
                       <a href={props.url} target="_blank" rel="noreferrer">
                         {props.publication}
@@ -104,7 +104,7 @@ export default function Timeline(props) {
                     {props.publication && (
                       <>
                         {' '}
-                        <p>
+                        <p className="timeline__publication">
                           Publication:{' '}
                           <a href={props.url} target="_blank" rel="noreferrer">
                             {props.publication}

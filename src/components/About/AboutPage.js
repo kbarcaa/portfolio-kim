@@ -26,9 +26,9 @@ export default function AboutPage() {
           <div className="overview">
             <h4>Overview</h4>
             <p>
-              Aspiring Junior Developer. Recently graduated from George Mason
-              University's fast pace Coding Bootcamp. Always willing to learn.
-              Keen eye for aesthetics and presentation.
+              Aspiring Junior Developer. Recently graduated from George
+              Washington University's fast pace Coding Bootcamp. Always willing
+              to learn. Keen eye for aesthetics and presentation.
             </p>
           </div>
           <div className="timeline">

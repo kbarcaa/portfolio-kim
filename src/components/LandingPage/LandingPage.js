@@ -18,10 +18,13 @@ export default function LandingPage() {
             Mason<span className="text-light"> SungJin </span>Kim
           </h1>
           <hr />
-          <h2 className="">Full Stack Web Developer</h2>
+          <h2>Full Stack Web Developer</h2>
           <div className="landingPage__icons">
             <OverlayTrigger overlay={<Tooltip>sungjinkimm@gmail.com</Tooltip>}>
-              <i className="far fa-envelope" />
+              {/* eslint-disable-next-line  */}
+              <a className="d-inline-block">
+                <i className="far fa-envelope" />
+              </a>
             </OverlayTrigger>
             <OverlayTrigger overlay={<Tooltip>github.com/masonkimm</Tooltip>}>
               <a

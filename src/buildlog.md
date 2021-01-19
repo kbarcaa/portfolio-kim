@@ -1,7 +1,15 @@
-# to add to github
+# to github to master branch
 
--git add -A
+```
+$ git add -A
 
-# to commit and deploy
+$ git commit -m 'msg'
 
-`$ npm run deploy`
+$ git push origin master
+```
+
+# to github pages branch
+
+```
+$ npm run deploy
+```

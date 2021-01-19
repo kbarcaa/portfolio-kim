@@ -87,3 +87,9 @@
   margin: 2rem;
   color: white;
 }
+
+.tooltip {
+  font-size: 13px;
+}
+
+/* media queries */
