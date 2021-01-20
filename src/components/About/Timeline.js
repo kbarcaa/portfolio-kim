@@ -40,7 +40,7 @@ export default function Timeline(props) {
                 <p>
                   Link:{' '}
                   <a href={props.url} target="_blank" rel="noreferrer">
-                    www.{props.name}.com/
+                    www.{props.name.split(' ').join('').toLowerCase()}.com
                   </a>
                 </p>
                 {props.publication && (
@@ -98,7 +98,7 @@ export default function Timeline(props) {
                     <p>
                       Link:{' '}
                       <a href={props.url2} target="_blank" rel="noreferrer">
-                        www.{props.name2}.com/
+                        www.{props.name2.split(' ').join('').toLowerCase()}.com
                       </a>
                     </p>
                     {props.publication && (
