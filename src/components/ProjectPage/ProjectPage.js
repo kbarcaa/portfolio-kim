@@ -1,25 +1,26 @@
 import React from 'react';
-import './ProjectPage.css';
+//css
+import './public/ProjectPage.css';
 //data
-import json from './projects.json';
+import json from './public/projects.json';
 //components
-import Project from './Project';
-import ProjectIcons from './ProjectIcons';
+import Project from './components/Project';
+import ProjectIcons from './components/ProjectIcons';
 //images
-import project__1 from './img/project__1.png';
-import project__1b from './img/project__1b.png';
-import project__2 from './img/project__2.png';
-import project__2b from './img/project__2b.png';
-import project__3 from './img/project__3.png';
-import project__3b from './img/project__3b.png';
-import project__4 from './img/project__4.png';
-import project__4b from './img/project__4b.png';
-import project__5 from './img/project__5.png';
-import project__5b from './img/project__5b.png';
-import project__5c from './img/project__5c.png';
-import project__6 from './img/project__6.png';
-import project__6b from './img/project__6b.png';
-import project__6c from './img/project__6c.png';
+import project__1 from './public/img/project__1.png';
+import project__1b from './public/img/project__1b.png';
+import project__2 from './public/img/project__2.png';
+import project__2b from './public/img/project__2b.png';
+import project__3 from './public/img/project__3.png';
+import project__3b from './public/img/project__3b.png';
+import project__4 from './public/img/project__4.png';
+import project__4b from './public/img/project__4b.png';
+import project__5 from './public/img/project__5.png';
+import project__5b from './public/img/project__5b.png';
+import project__5c from './public/img/project__5c.png';
+import project__6 from './public/img/project__6.png';
+import project__6b from './public/img/project__6b.png';
+import project__6c from './public/img/project__6c.png';
 
 export default function ProjectPage() {
   return (

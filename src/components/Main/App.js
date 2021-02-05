@@ -1,8 +1,8 @@
-import logo from '../logo.svg';
-import './App.css';
-import LandingPage from './LandingPage/LandingPage';
-import AboutPage from './AboutPage/AboutPage';
-import ProjectPage from './ProjectPage/ProjectPage';
+import logo from './public/logo.svg';
+import './public/App.css';
+import LandingPage from '../LandingPage/LandingPage';
+import AboutPage from '../AboutPage/AboutPage';
+import ProjectPage from '../ProjectPage/ProjectPage';
 
 function App() {
   return (

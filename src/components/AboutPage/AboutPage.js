@@ -1,18 +1,18 @@
 import React from 'react';
-import './AboutPage.css';
+import './public/AboutPage.css';
 //data
-import json from './AboutData.json';
+import json from './public/AboutData.json';
 //components
 import { Tab, Tabs } from 'react-bootstrap';
-import Timeline from './Timeline';
+import Timeline from './components/Timeline';
 //img
-import LogoKumon from './img/kumon.png';
-import LogoGmu from './img/gmu.png';
-import LogoSolomon from './img/solomon.png';
-import LogoKotra from './img/kotra.png';
-import LogoMtech from './img/mtech.png';
-import LogoHhmi from './img/hhmi.png';
-import LogoGw from './img/gw.png';
+import LogoKumon from './public/img/kumon.png';
+import LogoGmu from './public/img/gmu.png';
+import LogoSolomon from './public/img/solomon.png';
+import LogoKotra from './public/img/kotra.png';
+import LogoMtech from './public/img/mtech.png';
+import LogoHhmi from './public/img/hhmi.png';
+import LogoGw from './public/img/gw.png';
 
 export default function AboutPage() {
   return (
