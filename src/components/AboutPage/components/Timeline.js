@@ -25,7 +25,7 @@ export default function Timeline(props) {
               {props.type}
             </p>
 
-            <p>
+            <p className="">
               <span className="category">Description: </span>
               {props.description}
             </p>

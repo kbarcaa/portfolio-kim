@@ -30,6 +30,12 @@ export default function AboutPage() {
               Washington University's fast pace Coding Bootcamp. Always willing
               to learn. Keen eye for aesthetics and presentation.
             </p>
+            <h4>Skills</h4>
+            <p>
+              HTML, JavaScript, CSS, Bootstrap, jQuery, ES6, APIs, AJAX,
+              Node.js, Express, Express-Handlebars, MySQL, MongoDB, Mongoose,
+              GIT, GitHub, Command-Line, Heroku, React.js.
+            </p>
           </div>
           <div className="timeline">
             <h4>Timeline</h4>

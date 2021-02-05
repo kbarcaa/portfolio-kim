@@ -31,7 +31,7 @@
   justify-content: center;
   align-items: center;
   object-fit: contain;
-  max-width: 350px;
+  max-width: 350px !important;
   height: 350px;
   border: 1px solid gray;
   outline: none !important;
