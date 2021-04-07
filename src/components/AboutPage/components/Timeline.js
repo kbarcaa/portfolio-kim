@@ -2,7 +2,7 @@ import React from 'react';
 
 export default function Timeline(props) {
   return (
-    <div className="container">
+    <>
       <div className="timeline__name">
         <h2>
           {' '}
@@ -14,7 +14,7 @@ export default function Timeline(props) {
           <div className="timeline__img col-3 mt-3">
             <img className="img-fluid" src={props.img} alt="" />
           </div>
-          <div className="col-9">
+          <div className="col-lg-9">
             <p className="mt-2">
               <span className="category"> Role: </span>
               {props.role}
@@ -31,12 +31,12 @@ export default function Timeline(props) {
             </p>
 
             <div className="row">
-              <div className="col-6">
+              <div className="col-lg-6">
                 <p>
                   {props.location} | {props.date}
                 </p>
               </div>
-              <div className="col-6">
+              <div className="col-lg-6">
                 <p>
                   Link:{' '}
                   <a href={props.url} target="_blank" rel="noreferrer">
@@ -72,7 +72,7 @@ export default function Timeline(props) {
               <div className="timeline__img col-3 mt-3">
                 <img className="img-fluid" src={props.img2} alt="" />
               </div>
-              <div className="col-9">
+              <div className="col-lg-9">
                 <p className="mt-2">
                   <span className="category"> Role: </span>
                   {props.role2}
@@ -89,12 +89,12 @@ export default function Timeline(props) {
                 </p>
 
                 <div className="row">
-                  <div className="col-6">
+                  <div className="col-lg-6">
                     <p>
                       {props.location2} | {props.date2}
                     </p>
                   </div>
-                  <div className="col-6">
+                  <div className="col-lg-6">
                     <p>
                       Link:{' '}
                       <a href={props.url2} target="_blank" rel="noreferrer">
@@ -119,6 +119,6 @@ export default function Timeline(props) {
           </div>
         </div>
       )}
-    </div>
+    </>
   );
 }

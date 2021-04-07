@@ -31,8 +31,8 @@ hr {
   }
 }
 
+/* mobile view iphone-x based */
 @media (max-width: 375px) {
-  html,
   body {
     overflow-x: hidden;
   }
@@ -41,10 +41,9 @@ hr {
     margin: 1.5rem;
     padding: 0;
   }
+
+  .aboutPage .overview,
   .landingPage__body {
-    text-align: center;
-  }
-  .aboutPage .overview {
     text-align: center;
   }
   .aboutPage .timeline {
@@ -52,21 +51,22 @@ hr {
     margin: 0;
   }
   .timeline__img .img-fluid {
-    margin-left: 2rem !important;
+    margin-left: 2.7rem !important;
     margin-bottom: 1.5rem !important;
+
     max-width: 250%;
-    border-radius: 17px;
+    border-radius: 0 !important;
   }
   .timeline .timeline__content .row {
+    overflow: hidden;
+    max-width: 100%;
     padding: 0;
     margin: 0;
     display: block;
-    margin-left: -2rem;
+    /* margin-left: -2rem; */
   }
-  .timeline .timeline__content .row {
-    width: 180% !important;
-  }
-
+  /* to hide icon names */
+  .timeline__name,
   .projectPage__icons h5 {
     display: none;
   }

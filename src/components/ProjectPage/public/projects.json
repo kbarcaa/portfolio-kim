@@ -3,7 +3,7 @@
     "id": 1,
     "title": "To-Do List",
     "description": "Simple Todo list to keep track of daily tasks",
-    "utilized": "HTML, CSS, Bootstrap, JavaScript, jQuery, Weather - API, AJAX, Localhost,Git-Hub",
+    "utilized": "HTML, CSS, Bootstrap, JavaScript, jQuery, Weather - API, AJAX, Localhost, Git-Hub",
     "url": "https://masonkimm.github.io/todo-list",
     "github": "https://github.com/masonkimm/todo-list",
     "date": "May, 2020"
@@ -13,15 +13,15 @@
     "title": "Weather Checker",
     "description": "Current & Five-day Weather Checker for cities and states in USA",
     "utilized": "HTML, CSS, Bootstrap, JavaScript, jQuery, Weather - API, AJAX, Localhost, Git-Hub",
-    "url": "https://masonkimm.github.io/weather-checker",
-    "github": "https://github.com/masonkimm/weather-checker",
+    "url": "https://masonkimm.github.io/weather-app",
+    "github": "https://github.com/masonkimm/weather-app",
     "date": "June, 2020"
   },
   "project__3": {
     "id": 3,
     "title": "Snippet Saver",
     "description": "Digital library for storing useful code snippets.",
-    "utilized": "HTML, CSS, Bootstrap, JavaScript, MySQL DB, NPM Packages [Express, Express-Handlebars, MySQL], & Heroku",
+    "utilized": "HTML, CSS, Bootstrap, JavaScript, MySQL, NPM Packages [Express, Express-Handlebars, MySQL], & Heroku",
     "url": "https://sjk-snippetsaver.herokuapp.com",
     "github": "https://github.com/masonkimm/snippet-saver",
     "date": "July, 2020"
