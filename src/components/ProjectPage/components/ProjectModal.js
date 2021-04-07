@@ -15,9 +15,9 @@ export default function ProjectModal(props) {
         </Modal.Title>
       </Modal.Header>
       <Modal.Body className="project__modalBody">
-        <p>{props.description}</p>
+        <p className="text-center"> {props.description}</p>
         <img
-          className="ml-2 mb-3 img-fluid project__modalImg"
+          className="img-fluid project__modalImg"
           src={props.image}
           alt=" 🖼️ goes here"
         />

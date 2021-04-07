@@ -52,6 +52,10 @@
   max-height: 400px;
   border-radius: 17px;
   margin-bottom: 10px;
+  margin: 0 auto;
+  justify-content: center;
+  align-items: center;
+  display: flex;
 }
 .project__icon {
   margin-right: 1rem;
