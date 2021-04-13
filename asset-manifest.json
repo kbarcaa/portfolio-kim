@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/portfolio-kim/static/css/main.73c7e765.chunk.css",
-    "main.js": "/portfolio-kim/static/js/main.4e81577c.chunk.js",
-    "main.js.map": "/portfolio-kim/static/js/main.4e81577c.chunk.js.map",
+    "main.css": "/portfolio-kim/static/css/main.77396399.chunk.css",
+    "main.js": "/portfolio-kim/static/js/main.dce76647.chunk.js",
+    "main.js.map": "/portfolio-kim/static/js/main.dce76647.chunk.js.map",
     "runtime-main.js": "/portfolio-kim/static/js/runtime-main.5e6319f7.js",
     "runtime-main.js.map": "/portfolio-kim/static/js/runtime-main.5e6319f7.js.map",
     "static/css/2.1a02f21c.chunk.css": "/portfolio-kim/static/css/2.1a02f21c.chunk.css",
@@ -10,7 +10,7 @@
     "static/js/2.ba00d860.chunk.js.map": "/portfolio-kim/static/js/2.ba00d860.chunk.js.map",
     "index.html": "/portfolio-kim/index.html",
     "static/css/2.1a02f21c.chunk.css.map": "/portfolio-kim/static/css/2.1a02f21c.chunk.css.map",
-    "static/css/main.73c7e765.chunk.css.map": "/portfolio-kim/static/css/main.73c7e765.chunk.css.map",
+    "static/css/main.77396399.chunk.css.map": "/portfolio-kim/static/css/main.77396399.chunk.css.map",
     "static/js/2.ba00d860.chunk.js.LICENSE.txt": "/portfolio-kim/static/js/2.ba00d860.chunk.js.LICENSE.txt",
     "static/media/gmu.68765b2f.png": "/portfolio-kim/static/media/gmu.68765b2f.png",
     "static/media/gw.d39085cb.png": "/portfolio-kim/static/media/gw.d39085cb.png",
@@ -32,13 +32,16 @@
     "static/media/project__6.d3055fd7.png": "/portfolio-kim/static/media/project__6.d3055fd7.png",
     "static/media/project__6b.c76b8e52.png": "/portfolio-kim/static/media/project__6b.c76b8e52.png",
     "static/media/project__6c.4f2f63e1.png": "/portfolio-kim/static/media/project__6c.4f2f63e1.png",
+    "static/media/project__8.94a7e167.png": "/portfolio-kim/static/media/project__8.94a7e167.png",
+    "static/media/project__8b.0e5ad2cb.png": "/portfolio-kim/static/media/project__8b.0e5ad2cb.png",
+    "static/media/project__8c.d7cbffee.png": "/portfolio-kim/static/media/project__8c.d7cbffee.png",
     "static/media/solomon.7b8518e8.png": "/portfolio-kim/static/media/solomon.7b8518e8.png"
   },
   "entrypoints": [
     "static/js/runtime-main.5e6319f7.js",
     "static/css/2.1a02f21c.chunk.css",
     "static/js/2.ba00d860.chunk.js",
-    "static/css/main.73c7e765.chunk.css",
-    "static/js/main.4e81577c.chunk.js"
+    "static/css/main.77396399.chunk.css",
+    "static/js/main.dce76647.chunk.js"
   ]
 }
