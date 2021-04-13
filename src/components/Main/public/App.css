@@ -10,10 +10,11 @@ hr {
 
 .App-logo {
   height: 10vmin;
-  pointer-events: none;
+  /* pointer-events: none; */
   position: fixed;
   bottom: 0;
   right: 0;
+  cursor: pointer;
 }
 
 @media (prefers-reduced-motion: no-preference) {

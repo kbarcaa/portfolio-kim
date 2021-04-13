@@ -61,5 +61,14 @@
     "url": "https://modelier.herokuapp.com",
     "github": "https://github.com/masonkimm/modelier",
     "date": "September, 2020"
+  },
+  "project__8": {
+    "id": 8,
+    "title": "Facebook-Clone",
+    "description": "Facebook clone built with React and firebase database.",
+    "utilized": "React, React Hooks, React Context API, React flip move, Material UI, Flexbox, Firebase Firestore realtime Database, Firebase Hosting, Firebase Google Auth.",
+    "url": "https://facebook-clone-35fee.web.app/",
+    "github": "https://github.com/masonkimm/facebook-clone",
+    "date": "April, 2021"
   }
 }

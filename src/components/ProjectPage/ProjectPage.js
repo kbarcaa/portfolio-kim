@@ -21,6 +21,9 @@ import project__5c from './public/img/project__5c.png';
 import project__6 from './public/img/project__6.png';
 import project__6b from './public/img/project__6b.png';
 import project__6c from './public/img/project__6c.png';
+import project__8 from './public/img/project__8.png';
+import project__8b from './public/img/project__8b.png';
+import project__8c from './public/img/project__8c.png';
 
 export default function ProjectPage() {
   return (
@@ -104,6 +107,20 @@ export default function ProjectPage() {
             image={project__6}
             image2={project__6b}
             image3={project__6c}
+          />
+        </div>
+        <div className="row">
+          {/* Facebook-Clone */}
+          <Project
+            title={json.project__8.title}
+            url={json.project__8.url}
+            github={json.project__8.github}
+            description={json.project__8.description}
+            date={json.project__8.date}
+            utilized={json.project__8.utilized}
+            image={project__8b}
+            image2={project__8}
+            image3={project__8c}
           />
         </div>
       </div>
